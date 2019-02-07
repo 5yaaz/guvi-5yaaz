@@ -1,0 +1,4 @@
+a = int(raw_ input())
+b =int(raw_input()
+sum = a + b
+print(sum)
